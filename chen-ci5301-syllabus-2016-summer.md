@@ -82,7 +82,7 @@ This course will make use of the Internet for both e-mail communication and acce
 
 Please review the complete listing of assignments and description of activities. Details will be available on Canvas.
 
-### Online Group Discussions
+**Online Group Discussions**
 
 Each Discussion Forum grade is worth 3 points: 1 point for your own post in answering the question and 1 point for each response you post. In other words, in addition to your own post, which answers the original question, you must also respond to two other posts with a substantial response (around 3-4 sentences).
 
@@ -95,7 +95,7 @@ Each Discussion Forum grade is worth 3 points: 1 point for your own post in answ
 - Discussion for Social Networking: 3 points
 - Whole-class Independent Professional Development Forum: 3 points
 
-### Checkpoint Activities
+**Checkpoint Activities**
 
 The checkpoint activities are designed to keep you on task for some of our larger projects and provide you with an opportunity to solicit feedback and suggestions from your classmates. Each checkpoint activity will describe what you are expected to accomplish. In general you will be asked to share a project or portion of your project, share details of your project, answer the questions provided in the activity, and then provide feedback to your classmates or group members.
 
@@ -103,7 +103,7 @@ The checkpoint activities are designed to keep you on task for some of our large
 - Checkpoint Activity for Web Authoring:  5 points
 - Screencast Analysis: 5 points
 
-### Personal Reflections
+**Personal Reflections**
 
 You will be asked to write personal reflections on the various topics we will cover in this course. The reflections will range from approximately 2–4 paragraphs each. You will be asked to think critically and respond to questions about the topics covered in class.
 
@@ -111,7 +111,7 @@ You will be asked to write personal reflections on the various topics we will co
 - Reflection on Virtual Collaboration:  10 points
 - Reflection on Web Authoring:  10 points
 
-### Case Based Projects
+**Case Based Projects**
 
 There will be four case based projects during this course. In each case you will be putting theory into practice by creating important business-related elements. Each project will describe what you are expected to accomplish. The document portfolio, website, and screencast projects will be completed individually and the webinar will be a group project.
 
