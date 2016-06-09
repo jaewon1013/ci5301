@@ -87,11 +87,11 @@ Please review the complete listing of assignments and description of activities.
 Each Discussion Forum grade is worth 3 points: 1 point for your own post in answering the question and 1 point for each response you post. In other words, in addition to your own post, which answers the original question, you must also respond to two other posts with a substantial response (around 3-4 sentences).
 
 - Whole-class FlipGrid Intro: 4 point
-- Base Group Introduction: 3 points
+- Base Group discussion on web design initial ideas: 3 points
+- Critique of website example:  3 points
 - Discussion for Computer Literacy and Proficiency:  3 points
 - Digital Literacy Whole Group Voice Thread discussion: 3 points
 - Discussion for Virtual Collaboration:  3 points
-- Discussion for Web Authoring:  3 points
 - Discussion for Social Networking: 3 points
 - Whole-class Independent Professional Development Forum: 3 points
 
@@ -137,7 +137,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 | Modules | Topics                            | Deadlines   | Events/Notes                                                                     |
 |---------|-----------------------------------|-------------|---------------------------------------------------------------------------|
 | 1       | Introduction                      | Thurs, 6/16 | FlipGrid intro; Base group intro                                          |
-| 2       | Web Design Principles             | Mon, 6/20   | Discussion on web examples                                                |
+| 2       | Web Design Principles             | Mon, 6/20   | Critique on web examples; Base group discussion                                                |
 | 3       | Website Initial Submission        | Thurs, 6/23 | Website project checkpoint: initial post & peer feedback                  |
 | 4       | Website Final Submission          | Mon, 6/27   | Website project due; Personal reflection on Authoring for the Web         |
 | 5       | Digital/Computer Literacy         | Thurs, 6/30 | Discussion on computer literacy                                           |
@@ -206,11 +206,11 @@ designs.html<br>
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>Discussion Forum on Web Examples</td>
+    <td>Discussion on initial web design ideas</td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>None</td>
+    <td>Website critique</td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
