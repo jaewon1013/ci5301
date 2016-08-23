@@ -1,11 +1,11 @@
 # CI 5301 - Foundations of Computer Applications for Business and Education
 
-**Summer 2016 * Sections 001 (online)**
+**Fall 2016 * Sections 003 & 006 (online)**
 
 ## Instructor Information
 
-**Bodong Chen, Assistant Professor**  
-E-mail: chenbd@umn.edu  
+Instructors: **Yu-Hui Chang** & **Bodong Chen**  
+E-mail: chan1173@umn.edu & chenbd@umn.edu  
 Phone/Voicemail: (773) 850-1032  
 Office: LTML, 210 Lrng & Environmental Sci, St. Paul  
 Office Hours: By Appointment
