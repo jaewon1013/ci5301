@@ -332,7 +332,7 @@ designs.html<br>
   <tr>
     <td><b>Readings &amp; Media</b></td>
     <td>- Lynda.com Online Training at UMN, it.umn.edu <br>
-    - Inforgraphic, Google Forms, Excel, and Prezi documentations<br></td>
+    - Infographic, Google Forms, Excel, and Prezi documentations<br></td>
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
