@@ -17,7 +17,7 @@ The College of Education and Human Development is a world leader in discovering,
 
 ## Course Description & Themes
 
-This course examines the instructional uses of computers and representative business, education, and marketing applications, including word processing, spreadsheets, social media, and web design. We will be guided by the following themes and questions.
+*Digital literacies* is defined as "the capabilities which fit someone for living, learning and working in a digital society" ([Jisc, 2014](https://www.jisc.ac.uk/full-guide/developing-digital-literacies)). It looks beyond functional ICT skills to describe a richer set of digital behaviors, practices and identities. This course aims to help students develop vital digital literacies in the professions of business, marketing, education, etc. We will be guided by the following themes and questions.
 
 ### Computer Literacy and Proficiency and Business Software
 
