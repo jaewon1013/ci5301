@@ -35,10 +35,9 @@ This course examines the instructional uses of computers and representative busi
 ### Authoring on the Web
 
 - What are the differences between basic web languages (HTML/CSS) and web-based applications/content management systems?
+- What are the best ways to provide web development opportunities for students/workplaces?
 - How can educators and a business provide a presence on the web?
-- What are the best ways to provide web development opportunities for students?
-- How can educators and a business provide a presence on the web?
-
+- How to design and develop a creative and practical website?
 
 ## Course Website
 
@@ -178,7 +177,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>Whole-class FlipGrid Intro</td>
+    <td> Whole-class FlipGrid Intro (4 points) </td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
@@ -207,11 +206,11 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>Discussion on initial web design ideas</td>
+    <td>Discussion on initial web design ideas (3 points) </td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>Website critique</td>
+    <td>Website critique (3 points) </td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
@@ -244,7 +243,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>Website Project Checkpoint<br>
+    <td>Website Project Checkpoint (5 points)<br>
     - Post URL to initial website version<br>
     - Post feedback to all base group members</td>
   </tr>
@@ -278,11 +277,11 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>Website Project due</td>
+    <td>Website Project due (20 points)</td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
-    <td>Personal Reflection: Authoring for the Web</td>
+    <td>Personal Reflection: Authoring for the Web(10 points)</td>
   </tr>
 </table>
 
