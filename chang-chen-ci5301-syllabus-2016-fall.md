@@ -41,17 +41,15 @@ The College of Education and Human Development is a world leader in discovering,
 
 ## Course Website
 
-This course uses a Canvas website, and is currently separate from the MyU system. It can be found at https://umn.instructure.com/courses/541, although you should have received an email from "Instructure Canvas" inviting you to the course website.
-
-If you are having trouble finding the site, please email the instructor.
+This course uses a Canvas website, and is currently separate from the MyU system. It can be found at https://umn.instructure.com/courses/750. If you are having trouble finding the site, please email the instructors.
 
 ## Course Structure
 
-This is an online course with all course activities being completed online through Canvas (https://umn.instructure.com/courses/541). Please review all course information and activities on Canvas. Our class is entirely asynchronous, so you are responsible for your own time management and moving through the readings, activities, and assignments at the appropriate and recommended pace. You will have one synchronous meeting online with your *Base Group*... you will arrange this meeting time with your group three weeks prior to your meeting time, so that you have plenty of time to find a common time and secure it on your calendar.
+This is an online course with all course activities being completed online through Canvas (https://umn.instructure.com/courses/750). Please review all course information and activities on Canvas. Our class is entirely asynchronous, so you are responsible for your own time management and moving through the readings, activities, and assignments at the appropriate and recommended pace.  *Note*: You will have one synchronous meeting online with your *Base Group*. You will need to arrange this meeting time with your group three weeks prior to your meeting time, so that you have plenty of time to find a common time and secure it on your calendar.
 
 ### Class Modules
 
-Please plan on more intense work because it is a Summer class with a shorter timeframe. We will cover two "modules" in each week, with deadlines on Mondays and Thursdays (more soon in this syllabus). I recommend that you log in to the course site *at least* once every day... this will ensure you see any important announcements, and are able to keep up with discussions as needed.
+This class is designed with 14 modules. We will cover one module in each week, with the "class meeting day" and deadlines on Mondays (more details below). I recommend that you log in to the course site *at least* once every day. This will ensure you see any important announcements, and are able to keep up with discussions as needed.
 
 ### Textbook & Readings
 
@@ -71,10 +69,10 @@ Please see a complete listing of all technology requirements posted online. Our 
 
 This course will make use of the Internet for both e-mail communication and access to documents on the World Wide Web. All registered University of Minnesota students are currently provided an email address and free access to the Internet. The following assumptions are made about your access and use of the Internet:
 
-- Students are assumed to have access to a computer either personally or through University Open Labs, to have activated their email and internet count, and to have basic computing skills. (In other words, “My computer (or Internet) wasn’t working” is not an acceptable excuse for missed assignments or deadlines.)
-- Assistance in using email and the Internet is available through the University of Minnesota Tech Stop - http://www.oit.umn.edu/techstop/. Students who need extra assistance in using Internet software in order to complete the course requirements should talk with the instructor.
+- Students are assumed to have access to a computer either personally or through the [University's Computer Labs](https://it.umn.edu/computer-labs-locations-and-hours), to have activated their email and Internet count, and to have basic computer skills. (In other words, “My computer (or Internet) wasn’t working” is not an acceptable excuse for missed assignments or deadlines.)
+- Assistance in using email and the Internet is available through the University of Minnesota [Tech Stop](http://www.oit.umn.edu/techstop/). Students who need extra assistance in using Internet software in order to complete the course requirements should talk with the instructor.
 
-For email communications with the instructor, expect a response within 24--48 hours. Plan ahead of time if you have questions.
+For email communications with the instructors, expect a response within 24--48 hours. Plan ahead of time if you have questions.
 
 
 ## Assignments and Grades
