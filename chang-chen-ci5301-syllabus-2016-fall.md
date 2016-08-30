@@ -201,8 +201,8 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   <tr>
     <td><b>Readings &amp; Media</b></td>
     <td>- Web Design 101 (2011), http://www.active-domain.com/resources/webdesign101.htm<br>
-    - Users love simple and familiar designs – Why websites need to make a great first impression (2012), Google Research Blog, http://googleresearch.blogspot.com/2012/08/users-love-simple-and-familiar-
-designs.html<br>
+    - Users love simple and familiar designs – Why websites need to make a great first impression (2012), Google Research Blog, http://googleresearch.blogspot.com/2012/08/users-love-simple-and-familiar-designs.html<br>
+    - Web Design Principles Of Successful Websites (2015), https://www.cleverism.com/web-design-principles-successful-websites/<br>
     - Tools for Online Success (2011), Google and U.S. Small Business Administration, https://www.youtube.com/playlist?list=PL4733BD2246115A54</td>
   </tr>
   <tr>
