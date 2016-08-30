@@ -19,12 +19,13 @@ The College of Education and Human Development is a world leader in discovering,
 
 *Digital literacies* is defined as "the capabilities which fit someone for living, learning and working in a digital society" ([Jisc, 2014](https://www.jisc.ac.uk/full-guide/developing-digital-literacies)). It looks beyond functional ICT skills to describe a richer set of digital behaviors, practices and identities. This course aims to help students develop vital digital literacies in the professions of business, marketing, education, etc. We will be guided by the following themes and questions.
 
-### Computer Literacy and Proficiency and Business Software
+### Computer Literacy and Business Software
 
 - How should educators prepare students for the necessary computer literacy skills (e.g., word processing, presentation, data analysis software, web browsing, etc.) needed in their personal and professional lives?
-- How should the fields of education and business address the changing role of client based software applications to web based applications?
+- How should the fields of education and business address the changing role of client-based software applications to web based applications?
+- How could educators and business professionals harness the power of information technologies to effectively communicate ideas?
 
-### Computer Supported Collaborative Work in Business and Education
+### Computer Supported Collaborative Work
 
 - How are communication tools like email, instant messaging, and SMS converging?
 - How is mobile computing shaping the way businesses function?
@@ -34,10 +35,11 @@ The College of Education and Human Development is a world leader in discovering,
 
 ### Authoring on the Web
 
-- What are the differences between basic web languages (HTML/CSS) and web-based applications/content management systems?
-- What are the best ways to provide web development opportunities for students/workplaces?
-- How can educators and a business provide a presence on the web?
+- What are the differences between basic web languages (HTML, CSS, Javascript) and content management systems?
 - How to design and develop a creative and practical website?
+- How to harness web technologies to construct and maintain one's online presence?
+- How to sustain engagement of an online community (of, e.g., learners, fans, or consumers)?
+- What ethical and cybersecurity issues should one be aware of when authoring on the Web?
 
 ## Course Website
 
@@ -45,7 +47,7 @@ This course uses a Canvas website, and is currently separate from the MyU system
 
 ## Course Structure
 
-This is an online course with all course activities being completed online through Canvas (https://umn.instructure.com/courses/750). Please review all course information and activities on Canvas. Our class is entirely asynchronous, so you are responsible for your own time management and moving through the readings, activities, and assignments at the appropriate and recommended pace.  *Note*: You will have one synchronous meeting online with your *Base Group*. You will need to arrange this meeting time with your group three weeks prior to your meeting time, so that you have plenty of time to find a common time and secure it on your calendar.
+This is an online course with all course activities being completed online through [the course website](https://umn.instructure.com/courses/750). Please review all course information and activities on Canvas. Our class is entirely asynchronous, so you are responsible for your own time management and moving through the readings, activities, and assignments at the appropriate and recommended pace.  *Note*: You will have one synchronous meeting online with your *Base Group*. You will need to arrange this meeting time with your group three weeks prior to your meeting time, so that you have plenty of time to find a common time and secure it on your calendar.
 
 ### Class Modules
 
