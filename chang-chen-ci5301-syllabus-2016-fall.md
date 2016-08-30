@@ -281,7 +281,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
-    <td>Personal Reflection: Authoring for the Web(10 points)</td>
+    <td>Personal Reflection: Authoring for the Web (10 points)</td>
   </tr>
 </table>
 
@@ -305,7 +305,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>Computer Literacy Base Group Discussion Forum</td>
+    <td>Computer Literacy Base Group Discussion Forum (3 points) </td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
@@ -339,7 +339,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>Document Portfolio</td>
+    <td>Document Portfolio (20 points) </td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
@@ -369,15 +369,16 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
+    <td>Digital Literacy Whole Group Voice Thread discussion (3 points)</td>
     <td>Determine Webinar Project online meeting date/time</td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>None</td>
+    <td> Discussion for Computer Literacy and Proficiency (3 points) </td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
-    <td>Personal Reflection on Computer Literacy and Proficiency</td>
+    <td>Personal Reflection on Computer Literacy and Proficiency (10 points) </td>
   </tr>
 </table>
 
@@ -403,7 +404,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>- Virtual Collaboration Discussion: Planning and Expectations for Webinar Project<br>
+    <td>- Virtual Collaboration Discussion (3 points): Planning and Expectations for Webinar Project<br>
     - Confirm Webinar meeting time with group</td>
   </tr>
   <tr>
@@ -436,7 +437,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>Virtual Collaboration Checkpoint:<br>
+    <td>Virtual Collaboration Checkpoint (5 points) :<br>
     - Write and prepare visuals for your mini-webinar recording<br>
     - Record your mini-webinar on Google Hangouts On-Air and share the YouTube Channel link to the recording in a post on the Webinar Checkpoint Forum<br>
     - Give feedback on ALL of your group-mates' mini-webinar recordings on the Webinar Checkpoint Forum</td>
@@ -474,7 +475,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>Whole group Twitter-Style discussion: Professional Social Networking: Ethical Actions</td>
+    <td>Whole group Twitter-Style discussion (3 points): Professional Social Networking: Ethical Actions</td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
@@ -508,11 +509,11 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>Final Webinar Recording, one group member submit recording to assignment submission area</td>
+    <td>Final Webinar Recording (20 points), one group member submit recording to assignment submission area</td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
-    <td>Personal Reflection on Virtual Collaboration</td>
+    <td>Personal Reflection on Virtual Collaboration (10 points) </td>
   </tr>
 </table>
 
@@ -539,7 +540,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>Screencast Checkpoint Forum (you will give feedback to your group-mates in the next module)</td>
+    <td>Screencast Checkpoint Forum (5 points) (you will give feedback to your group-mates in the next module)</td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
@@ -569,7 +570,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>Screencast Production assignment Recording</td>
+    <td>Screencast Production assignment Recording (20 points) </td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
@@ -595,7 +596,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>Whole-Class Independent Professional Development Forum</td>
+    <td>Whole-Class Independent Professional Development Forum (3 points) </td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
