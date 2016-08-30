@@ -137,20 +137,20 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 
 | Dates     | Modules / Topics                  | Deadlines   | Events/Notes                                                            |
 |-----------|-----------------------------------|-------------|-------------------------------------------------------------------------|
-| Mon, 9/12 | 1 / Introduction                      | Mon, 9/19   | FlipGrid intro; Base group intro                                    |
-| Mon, 9/19 | 2 / Web Design Principles             | Mon, 9/26   | Critique on web examples; Base group discussion                     |
-| Mon, 9/26 | 3 / Website Initial Submission        | Mon, 10/03  | Website project checkpoint: initial post & peer feedback            |
-| Mon, 10/03| 4 / Website Final Submission          | Mon, 10/10  | Website project due; Personal reflection on Authoring for the Web   |
-| Mon, 10/10| 5 / Digital/Computer Literacy         | Mon, 10/17  | Discussion on computer literacy                                     |
-| Mon, 10/17| 6 / Document Portfolio                | Mon, 10/24  | Document portfolio due                                              |
-| Mon, 10/24| 7 / Computer Literacy Reflection      | Mon, 10/31  | Personal reflection on computer literacy                            |
-| Mon, 10/31| 8 / Virtual Collaboration Concepts    | Mon, 11/7   | Discussion on virtual collaboration; Planning webinar               |
-| Mon, 11/7 | 9 / Webinar Preparation               | Mon, 11/14  | Virtual collaboration checkpoint                                    |
-| Mon, 11/14| 10/ Webinar Revision and Social Media | Mon, 11/21  | Discussion on professional social networking                        |
-| Mon, 11/21| 11/ Webinar Final Submission          | Mon, 11/28  | Final webinar recording due; Personal reflection on virtual collaboration |
-| Mon, 11/28| 12/ Screencasting                     | Mon, 12/5   | Screencast checkpoint                                               |
-| Mon, 12/5 | 13/ Revised Screencast                | Mon, 12/12  | Screencast peer-feedback; Screencast final submission               |
-| Mon, 12/12| 14/ Final Reflections                 | Mon, 12/19  | Whole-class discussion; Course evaluation                           |
+| Tue, 9/6  | 1 / Introduction                      | Mon, 9/12   | FlipGrid intro; Base group intro                                    |
+| Mon, 9/12 | 2 / Web Design Principles             | Mon, 9/19   | Critique on web examples; Base group discussion                     |
+| Mon, 9/19 | 3 / Website Initial Submission        | Mon, 9/26  | Website project checkpoint: initial post & peer feedback            |
+| Mon, 9/26| 4 / Website Final Submission           | Mon, 10/03  | Website project due; Personal reflection on Authoring for the Web   |
+| Mon, 10/03| 5 / Digital/Computer Literacy         | Mon, 10/10  | Discussion on computer literacy                                     |
+| Mon, 10/10| 6 / Document Portfolio                | Mon, 10/17  | Document portfolio due                                              |
+| Mon, 10/17| 7 / Computer Literacy Reflection      | Mon, 10/24  | Personal reflection on computer literacy                            |
+| Mon, 10/24| 8 / Virtual Collaboration Concepts    | Mon, 10/31   | Discussion on virtual collaboration; Planning webinar              |
+| Mon, 10/31 | 9 / Webinar Preparation              | Mon, 11/7  | Virtual collaboration checkpoint                                    |
+| Mon, 11/7 | 10/ Webinar Revision and Social Media  | Mon, 11/14 | Discussion on professional social networking                        |
+| Mon, 11/14| 11/ Webinar Final Submission          | Mon, 11/21  | Final webinar recording due; Personal reflection on virtual collaboration |
+| Mon, 11/21| 12/ Screencasting                     | Mon, 11/28 | Screencast checkpoint                                               |
+| Mon, 11/28 | 13/ Revised Screencast                | Mon, 12/5  | Screencast peer-feedback; Screencast final submission               |
+| Mon, 12/5| 14/ Final Reflections                 | Mon, 12/12  | Whole-class discussion; Course evaluation                           |
 
 
 ### Module 1: Introduction
