@@ -201,9 +201,9 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   <tr>
     <td><b>Readings &amp; Media</b></td>
     <td>- Web Design 101 (2011), http://www.active-domain.com/resources/webdesign101.htm<br>
-    - Users love simple and familiar designs – Why websites need to make a great first impression (2012), Google Research Blog, http://googleresearch.blogspot.com/2012/08/users-love-simple-and-familiar-designs.html<br>
-    - Tools for Online Success (2011), Google and U.S. Small Business Administration, https://www.youtube.com/playlist?list=PL4733BD2246115A54<br>
-    - Web Design Principles Of Successful Websites (2015), https://www.cleverism.com/web-design-principles-successful-websites/</td>
+    - Users love simple and familiar designs – Why websites need to make a great first impression (2012), Google Research Blog, http://googleresearch.blogspot.com/2012/08/users-love-simple-and-familiar-
+designs.html<br>
+    - Tools for Online Success (2011), Google and U.S. Small Business Administration, https://www.youtube.com/playlist?list=PL4733BD2246115A54</td>
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
@@ -325,14 +325,14 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   <tr>
     <td><b>Objectives</b></td>
     <td>- Be able to learn new programs and applications using: 1) Support resources within the program or app; 2) Third-party online video tutorials like Lynda.com<br>
-    - Be comfortable creating "documents" using: Excel, Prezi, Google Forms</td>
+    - Be comfortable creating "documents" using: Infographic, Excel, Prezi, Google Forms, or other tools </td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td><b>Readings &amp; Media</b></td>
     <td>- Lynda.com Online Training at UMN, it.umn.edu <br>
-    - Google Forms, Excel, and Prezi documentations<br></td>
+    - Inforgraphic, Google Forms, Excel, and Prezi documentations<br></td>
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
