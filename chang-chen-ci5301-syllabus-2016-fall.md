@@ -178,7 +178,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>None</td>
+    <td>Whole-class FlipGrid Intro</td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
