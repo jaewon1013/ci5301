@@ -17,29 +17,28 @@ The College of Education and Human Development is a world leader in discovering,
 
 ## Course Description & Themes
 
-*Digital literacies* is defined as "the capabilities which fit someone for living, learning and working in a digital society" ([Jisc, 2014](https://www.jisc.ac.uk/full-guide/developing-digital-literacies)). It looks beyond functional ICT skills to describe a richer set of digital behaviors, practices and identities. This course aims to help students develop vital digital literacies in the professions of business, marketing, education, etc. We will be guided by the following themes and questions.
+*Digital literacies* is defined as "the capabilities which fit someone for living, learning and working in a digital society" ([Jisc, 2014](https://www.jisc.ac.uk/full-guide/developing-digital-literacies)). It looks beyond functional information & communication technologies (ICT) skills to describe a richer set of digital *behaviors*, *practices* and *identities*. This course aims to help students develop vital digital literacies in the professions of business, marketing, education, etc. The course will be guided by the following themes.
 
 ### Computer Literacy and Business Software
 
-- How should educators prepare students for the necessary computer literacy skills (e.g., word processing, presentation, data analysis software, web browsing, etc.) needed in their personal and professional lives?
-- How should the fields of education and business address the changing role of client-based software applications to web based applications?
 - How could educators and business professionals harness the power of information technologies to effectively communicate ideas?
+- How should educators prepare students for the necessary computer literacy skills (e.g., word processing, presentation, data analysis software, web browsing, etc.) needed in their personal and professional lives?
+- How should the fields of education and business react to the ever changing landscape of ICT?
 
 ### Computer Supported Collaborative Work
 
-- How are communication tools like email, instant messaging, and SMS converging?
+- How are communication tools like email, instant messaging, and web conferencing software applied in business and education?
 - How is mobile computing shaping the way businesses function?
-- What opportunities and challenges to businesses and educators have using web conferencing tools (Google Hangouts, Adobe Connect, WebEx, Elluminate)?
-- How are video-/tele-conferencing systems (webcams, ITV) and voice over IP systems (e.g., Skype) changing collaboration opportunities?
-- In what ways are knowledge management systems (knowledge bases/wikis) influencing business operations?
+- What opportunities and challenges to businesses and educators have using web conferencing tools (e.g., Google Hangouts, Adobe Connect, WebEx, Skype)?
+- In what ways are virtual collaboration tools (e.g., Google Docs, wikis, knowledge bases) influencing business operations?
 
 ### Authoring on the Web
 
-- What are the differences between basic web languages (HTML, CSS, Javascript) and content management systems?
-- How to design and develop a creative and practical website?
-- How to harness web technologies to construct and maintain one's online presence?
-- How to sustain engagement of an online community (of, e.g., learners, fans, or consumers)?
-- What ethical and cybersecurity issues should one be aware of when authoring on the Web?
+- What are the basic web languages (i.e., HTML, CSS, Javascript)?
+- How to design and develop a creative and practical website using state-of-the-art content management systems?
+- How to harness web technologies to construct and maintain one's online presence/identity?
+- How to sustain engagement of an online community (of learners, fans, or consumers)?
+- What ethical and cybersecurity issues should be considered when authoring on the Web?
 
 ## Course Website
 
