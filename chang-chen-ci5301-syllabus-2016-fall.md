@@ -134,22 +134,22 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 
 ### Schedule Overview
 
-| Dates     | Modules / Topics                  | Deadlines   | Events/Notes                                                            |
-|-----------|-----------------------------------|-------------|-------------------------------------------------------------------------|
-| Tue, 9/6  | 1 / Introduction                      | Mon, 9/12   | FlipGrid intro; Base group intro                                    |
-| Mon, 9/12 | 2 / Web Design Principles             | Mon, 9/19   | Critique on web examples; Base group discussion                     |
-| Mon, 9/19 | 3 / Website Initial Submission        | Mon, 9/26  | Website project checkpoint: initial post & peer feedback            |
-| Mon, 9/26| 4 / Website Final Submission           | Mon, 10/03  | Website project due; Personal reflection on Authoring for the Web   |
-| Mon, 10/03| 5 / Digital/Computer Literacy         | Mon, 10/10  | Discussion on computer literacy                                     |
-| Mon, 10/10| 6 / Document Portfolio                | Mon, 10/17  | Document portfolio due                                              |
-| Mon, 10/17| 7 / Computer Literacy Reflection      | Mon, 10/24  | Personal reflection on computer literacy                            |
-| Mon, 10/24| 8 / Virtual Collaboration Concepts    | Mon, 10/31   | Discussion on virtual collaboration; Planning webinar              |
-| Mon, 10/31 | 9 / Webinar Preparation              | Mon, 11/7  | Virtual collaboration checkpoint                                    |
-| Mon, 11/7 | 10/ Webinar Revision and Social Media  | Mon, 11/14 | Discussion on professional social networking                        |
-| Mon, 11/14| 11/ Webinar Final Submission          | Mon, 11/21  | Final webinar recording due; Personal reflection on virtual collaboration |
-| Mon, 11/21| 12/ Screencasting                     | Mon, 11/28 | Screencast checkpoint                                               |
-| Mon, 11/28 | 13/ Revised Screencast                | Mon, 12/5  | Screencast peer-feedback; Screencast final submission               |
-| Mon, 12/5| 14/ Final Reflections                 | Mon, 12/12  | Whole-class discussion; Course evaluation                           |
+| Dates      | Modules / Topics                  | Deadlines   | Events/Notes                                                            |
+|------------|-----------------------------------|-------------|-------------------------------------------------------------------------|
+| Tue, 9/6   | 1. Introduction                      | Mon, 9/12   | FlipGrid intro; Base group intro                                    |
+| Mon, 9/12  | 2. Web Design Principles             | Mon, 9/19   | Critique on web examples; Base group discussion                     |
+| Mon, 9/19  | 3. Website Initial Submission        | Mon, 9/26  | Website project checkpoint: initial post & peer feedback            |
+| Mon, 9/26  | 4. Website Final Submission           | Mon, 10/03  | Website project due; Personal reflection on Authoring for the Web   |
+| Mon, 10/03 | 5. Digital Literacies                 | Mon, 10/10  | Discussion on digital literacy                                     |
+| Mon, 10/10 | 6. Document Portfolio                 | Mon, 10/17  | Document portfolio due                                              |
+| Mon, 10/17 | 7. Digital Literacies Reflection      | Mon, 10/24  | Personal reflection on digital literacy                            |
+| Mon, 10/24 | 8. Virtual Collaboration Concepts    | Mon, 10/31   | Discussion on virtual collaboration; Planning webinar              |
+| Mon, 10/31 | 9. Webinar Preparation              | Mon, 11/7  | Virtual collaboration checkpoint                                    |
+| Mon, 11/7  | 10. Webinar Revision and Social Media  | Mon, 11/14 | Discussion on professional social networking                        |
+| Mon, 11/14 | 11. Webinar Final Submission          | Mon, 11/21  | Final webinar recording due; Personal reflection on virtual collaboration |
+| Mon, 11/21 | 12. Screencasting                     | Mon, 11/28 | Screencast checkpoint                                               |
+| Mon, 11/28 | 13. Revised Screencast                | Mon, 12/5  | Screencast peer-feedback; Screencast final submission               |
+| Mon, 12/5  | 14. Final Reflections                 | Mon, 12/12  | Whole-class discussion; Course evaluation                           |
 
 
 ### Module 1: Introduction
@@ -158,7 +158,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   <tr>
     <td><b>Objectives</b></td>
     <td>
-    - Be comfortable navigating your way through our Online Course, and understand the format of the course<br>
+    - Be comfortable navigating your way through our Course Website, and understand the format of the course<br>
     - Be familiar with your classmates in the course</td>
   </tr>
   <tr>
@@ -285,26 +285,25 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 </table>
 
 
-### Module 5: Digital/Computer Literacy
+### Module 5: Digital Literacies
 
 <table>
   <tr>
     <td><b>Objectives</b></td>
-    <td>Develop an understanding of computer/digital literacy</td>
+    <td>Develop an understanding of digital literacies</td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td><b>Readings &amp; Media</b></td>
-    <td>- Heinrichs, J. H., Lim, J. (2010). Information Literacy and Office Tool Competencies: A Benchmark Study. Journal of Education for Business, 85, 153–164<br>
-    - Grant, D. M., Malloy, A. D., and Murphy, M. C. (2009). A Comparison of Student Perceptions of their Computer Skills to their Actual Abilities. Journal of Information Technology Education, 8, 141-160.<br>
-    - 20 ways of thinking about digital literacy in higher education (2012), http://www.theguardian.com/higher-education- network/blog/2012/may/15/digital-literacy-in-universities<br>
-    - Digital Literacy Fundamentals (2014), http://mediasmarts.ca/digital-media- literacy-fundamentals/digital-literacy-fundamentals<br>
-    - US Digital Literacy (2014), http://digitalliteracy.us</td>
+    <td>- Buckingham, D. (2010). Defining digital literacy. In *Medienbildung in neuen Kulturr{ä}umen* (pp. 59–71). Springer.<br>
+    - Heinrichs, J. H., Lim, J. (2010). Information Literacy and Office Tool Competencies: A Benchmark Study. Journal of Education for Business, 85, 153–164<br>
+    - Jisc. (n.d.). [Developing digital literacies](https://www.jisc.ac.uk/guides/developing-digital-literacies).<br>
+    - MediaSmarts. (2014). [Digital Literacy Fundamentals](http://mediasmarts.ca/digital-media-literacy-fundamentals/digital-literacy-fundamentals).</td>
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>Computer Literacy Base Group Discussion Forum (3 points) </td>
+    <td>Digital Literacies Base Group Discussion Forum (3 points) </td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
@@ -317,20 +316,21 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 </table>
 
 
-### Module 6: Document Portfolio
+### Module 6: Document Portfolio, Data Literacy
 
 <table>
   <tr>
     <td><b>Objectives</b></td>
     <td>- Be able to learn new programs and applications using: 1) Support resources within the program or app; 2) Third-party online video tutorials like Lynda.com<br>
-    - Be comfortable creating "documents" using: Infographic, Excel, Prezi, Google Forms, or other tools </td>
+    - Be comfortable creating "documents" using: Google Forms, Excel, Infographic, presentation software, or other tools<br>
+    - Be able to read, clean, transform, and communicate data</td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td><b>Readings &amp; Media</b></td>
     <td>- Lynda.com Online Training at UMN, it.umn.edu <br>
-    - Infographic, Google Forms, Excel, and Prezi documentations<br></td>
+    - Google Forms, Excel, Infographic, and other software documentations<br></td>
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
@@ -347,7 +347,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 </table>
 
 
-### Module 7: Computer Literacy Reflection
+### Module 7: Digital Literacy Reflection
 
 <table>
   <tr>
@@ -355,29 +355,28 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
     <td>
     - Reflect on computer proficiency and literacy in light of your experience with the document portfolio assignment, and the various readings<br>
     - Consider the role of computer proficiency and literacy in the workplace<br>
-    - Schedule a time for your Webinar project meeting using Doodle and the discussion forum</td>
+    - To prepare for the next project, schedule a time for your Webinar project meeting using Doodle and the discussion forum</td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td><b>Readings &amp; Media</b></td>
-    <td>- The Advantages of Being Computer Literate in the Workforce (2014). Houston Chronicle. http://smallbusiness.chron.com/advantages-being-computer-literate- workforce-27703.html<br>
-    - Education for Life: Computer Literacy Required in the Workplace. (2010) Minneapolis Star Tribune. http://www.startribune.com/jobs/105903808.html <br>
-    - Employers want education to better prepare young people for life. 7/ 7/2014, Issue 206, p1-4. 2p.<br>
-    - Elmore, L. (2011). Competing for jobs when you’re up against your mom, your grandpa, and your peers. Women in Business, 37-39.</td>
+    <td>- [Digital skills from the employers' perspective](http://dlfl.bcs.org/content/conWebDoc/52325), 2014<br>
+    - [Protect your online identity](http://guides.libraries.uc.edu/digliteracy/protect), 2015.<br>
+    - [Who Are You Online? Considering Issues of Web Identity](http://learning.blogs.nytimes.com/2013/02/05/guest-post-who-are-you-online-considering-issues-of-web-identity/?_r=0), 2013.</td>
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>Digital Literacy Whole Group Voice Thread discussion (3 points)</td>
-    <td>Determine Webinar Project online meeting date/time</td>
+    <td>- Digital Literacies Whole Group discussion, through [Web annotations](https://hypothes.is/#) (3 points)<br>
+    - Determine Webinar Project online meeting date/time</td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td> Discussion for Computer Literacy and Proficiency (3 points) </td>
+    <td>Discussion for Digital Literacies (3 points) </td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
-    <td>Personal Reflection on Computer Literacy and Proficiency (10 points) </td>
+    <td>Personal Reflection on Digital Literacies (10 points) </td>
   </tr>
 </table>
 
