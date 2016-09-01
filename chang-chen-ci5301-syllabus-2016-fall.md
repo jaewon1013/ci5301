@@ -171,8 +171,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>- Introduction Forum<br>
-    - FlipGrid: Introduce yourself through video</td>
+    <td>None</td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
