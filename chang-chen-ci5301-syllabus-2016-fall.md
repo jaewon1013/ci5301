@@ -136,8 +136,8 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 
 | Dates      | Modules / Topics                  | Deadlines   | Events/Notes                                                            |
 |------------|-----------------------------------|-------------|-------------------------------------------------------------------------|
-| Tue, 9/6   | 1. Introduction                      | Mon, 9/12   | FlipGrid intro; Base group intro                                    |
-| Mon, 9/12  | 2. Web Design Principles             | Mon, 9/19   | Critique on web examples; Base group discussion                     |
+| Tue, 9/6   | 1. Introduction                      | Mon, 9/12   | FlipGrid intro                                              |
+| Mon, 9/12  | 2. Web Design Principles             | Mon, 9/19   | Critique on web examples; Base group intro & discussion                     |
 | Mon, 9/19  | 3. Website Initial Submission        | Mon, 9/26  | Website project checkpoint: initial post & peer feedback            |
 | Mon, 9/26  | 4. Website Final Submission           | Mon, 10/03  | Website project due; Personal reflection on Authoring for the Web   |
 | Mon, 10/03 | 5. Digital Literacies                 | Mon, 10/10  | Discussion on digital literacy                                     |
