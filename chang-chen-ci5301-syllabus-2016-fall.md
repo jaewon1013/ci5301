@@ -205,13 +205,13 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>Discussion on initial web design ideas (3 points) </td> 
+    <td>Discussion on initial web design ideas (3 points) <br>
     This should be posted in your base group.
     https://umn.instructure.com/courses/750/discussion_topics/7249?module_item_id=36455 </td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>Website critique (3 points) </td> 
+    <td>Website critique (3 points) <br>
     To complete this submission, please post your individual critique by posting in this forum https://umn.instructure.com/courses/750/discussion_topics/7267?module_item_id=36454 </td>
   </tr>
   <tr>
