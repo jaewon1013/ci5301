@@ -206,7 +206,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   <tr>
     <td><b>Base Group Discussion</b></td>
     <td>Discussion on initial web design ideas (3 points) <br>
-    This should be posted in your base group.
+    This should be posted in your base group. Initial posting is due by Sat, Sep 17th; followed by idea discussion is due by Mon, Sep 19th.
     https://umn.instructure.com/courses/750/discussion_topics/7249?module_item_id=36455 </td>
   </tr>
   <tr>
