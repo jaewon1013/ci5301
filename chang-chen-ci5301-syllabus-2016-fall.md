@@ -247,7 +247,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
     <td><b>Assignment Due</b></td>
     <td>Website Project Checkpoint (5 points possible)<br>
     - Post your initial website URL in Module 3-1 base group forum by Sat, Sep 24th.<br>
-    - Post feedback to all base group members by Sat, Sep 26th.</td>
+    - Post feedback to all base group members by Mon, Sep 26th.</td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
