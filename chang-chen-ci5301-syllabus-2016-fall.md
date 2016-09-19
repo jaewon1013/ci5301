@@ -138,7 +138,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 |------------|-----------------------------------|-------------|-------------------------------------------------------------------------|
 | Tue, 9/6   | 1. Introduction                      | Mon, 9/12   | FlipGrid intro                                              |
 | Mon, 9/12  | 2. Web Design Principles             | Sat, 9/17; Mon, 9/19   | Critique on web examples(by Mon, 9/19); **Base group intro (by Sat, 9/17)** & discussion(by Mon, 9/19)                     |
-| Mon, 9/19  | 3. Website Initial Submission        | Sat, 9/24; Mon, 9/26  | Website project checkpoint: **initial post (by Sat, 9/24)** & peer feedback            |
+| Mon, 9/19  | 3. Website Initial Submission        | Sat, 9/24; Mon, 9/26  | Website project checkpoint: **initial post (by Sat, 9/24)** & peer feedback(by Mon, 9/26)            |
 | Mon, 9/26  | 4. Website Final Submission           | Mon, 10/03  | Website project due; Personal reflection on Authoring for the Web   |
 | Mon, 10/03 | 5. Digital Literacies                 | Mon, 10/10  | Discussion on digital literacy                                     |
 | Mon, 10/10 | 6. Document Portfolio                 | Mon, 10/17  | Document portfolio due                                              |
@@ -234,20 +234,20 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Readings &amp; Media</b></td>
-    <td>- Review Tools for Online Success (2011), Google and U.S. Small Business Administration, http://www.google.com/help/places/partners/sba/index.html<br>
+    <td>- Web design guide: 69 website design tips for breathtaking websites. By Bauke Roesink. https://psdtowp.net/website-design-tips.html<br>
     - Top Ten Tips for Website Design (2014), http://website-builder-review.toptenreviews.com/top-ten-tips-for-website-design.html <br>
     - Top 10 Tips to a Great Web Page (2014), http://webdesign.about.com/od/webdesignbasics/tp/aa112497.htm <br>
     - Website Design Tips (2012), http://websitehelpers.com/design/</td>
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>None</td>
+    <td>See below Assignment Due</td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>Website Project Checkpoint (5 points)<br>
-    - Post URL to initial website version<br>
-    - Post feedback to all base group members</td>
+    <td>Website Project Checkpoint (5 points possible)<br>
+    - Post your initial website URL in Module 3-1 base group forum by Sat, Sep 24th.<br>
+    - Post feedback to all base group members by Sat, Sep 26th.</td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
