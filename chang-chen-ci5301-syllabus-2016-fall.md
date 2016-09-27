@@ -300,9 +300,8 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   <tr>
     <td><b>Readings &amp; Media</b></td>
     <td>- Buckingham, D. (2010). Defining digital literacy. In <i>Medienbildung in neuen Kulturr{ä}umen</i> (pp. 59–71). Springer.<br>
-    - Heinrichs, J. H., Lim, J. (2010). Information Literacy and Office Tool Competencies: A Benchmark Study. <i>Journal of Education for Business, 85</i>, 153–164<br>
     - Jisc. (n.d.). <a href="https://www.jisc.ac.uk/guides/developing-digital-literacies">Developing digital literacies</a>.<br>
-    - MediaSmarts. (2014). <a href="http://mediasmarts.ca/digital-media-literacy-fundamentals/digital-literacy-fundamentals">Digital Literacy Fundamentals</a>.</td>
+    - MediaSmarts. (2014). <a href="http://mediasmarts.ca/digital-media-literacy-fundamentals/digital-literacy-fundamentals">Digital Literacy Fundamentals</a>. (Sections 1-2)</td>
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
