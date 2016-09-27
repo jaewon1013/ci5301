@@ -270,7 +270,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   <tr>
     <td><b>Readings &amp; Media</b></td>
     <td>- Using Copyrightable Materials (2010), https://www.lib.umn.edu/copyright/useoverview<br>
-    - Copyright Fair Use and How it Works for Online Images (2011), http://www.socialmediaexaminer.com/copyright-fair-use-and-how-it-works- for-online-images/<br>
+    - Copyright Fair Use and How it Works for Online Images (2011), http://www.socialmediaexaminer.com/copyright-fair-use-and-how-it-works-for-online-images/<br>
     - Creative Commons (2014), http://creativecommons.org. Read pages:	Mission, Learn About CC; Explore: Find CC-Licensed Works; Case studies.</td>
   </tr>
   <tr>
@@ -299,10 +299,10 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Readings &amp; Media</b></td>
-    <td>- Buckingham, D. (2010). Defining digital literacy. In *Medienbildung in neuen Kulturr{ä}umen* (pp. 59–71). Springer.<br>
-    - Heinrichs, J. H., Lim, J. (2010). Information Literacy and Office Tool Competencies: A Benchmark Study. Journal of Education for Business, 85, 153–164<br>
-    - Jisc. (n.d.). [Developing digital literacies](https://www.jisc.ac.uk/guides/developing-digital-literacies).<br>
-    - MediaSmarts. (2014). [Digital Literacy Fundamentals](http://mediasmarts.ca/digital-media-literacy-fundamentals/digital-literacy-fundamentals).</td>
+    <td>- Buckingham, D. (2010). Defining digital literacy. In <i>Medienbildung in neuen Kulturr{ä}umen</i> (pp. 59–71). Springer.<br>
+    - Heinrichs, J. H., Lim, J. (2010). Information Literacy and Office Tool Competencies: A Benchmark Study. <i>Journal of Education for Business, 85</i>, 153–164<br>
+    - Jisc. (n.d.). <a href="https://www.jisc.ac.uk/guides/developing-digital-literacies">Developing digital literacies</a>.<br>
+    - MediaSmarts. (2014). <a href="http://mediasmarts.ca/digital-media-literacy-fundamentals/digital-literacy-fundamentals">Digital Literacy Fundamentals</a>.</td>
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
