@@ -299,13 +299,13 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Readings &amp; Media</b></td>
-    <td>- Buckingham, D. (2010). Defining digital literacy. In <i>Medienbildung in neuen Kulturr{ä}umen</i> (pp. 59–71). Springer.<br>
-    - Jisc. (n.d.). <a href="https://www.jisc.ac.uk/guides/developing-digital-literacies">Developing digital literacies</a>.<br>
-    - MediaSmarts. (2014). <a href="http://mediasmarts.ca/digital-media-literacy-fundamentals/digital-literacy-fundamentals">Digital Literacy Fundamentals</a>. (Sections 1-2)</td>
+    <td>- Jisc. (n.d.). <a href="https://www.jisc.ac.uk/guides/developing-digital-literacies">Developing digital literacies</a>.<br>
+    - MediaSmarts. (2014). <a href="http://mediasmarts.ca/digital-media-literacy-fundamentals/digital-literacy-fundamentals">Digital Literacy Fundamentals</a>. (Sections 1-2)<br>
+    - <b>Optional</b>: Buckingham, D. (2010). Defining digital literacy. In <i>Medienbildung in neuen Kulturr{ä}umen</i> (pp. 59–71). Springer.</td>
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>Digital Literacies Base Group Discussion Forum (3 points) </td>
+    <td>Base Group Discussion: Digital Literacies (3 points) </td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
