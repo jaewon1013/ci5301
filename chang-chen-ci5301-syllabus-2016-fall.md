@@ -89,8 +89,8 @@ Each Discussion Forum grade is worth 3 points: 1 point for your own post in answ
 - Whole-class FlipGrid Intro: 4 point
 - Base Group discussion on web design initial ideas: 3 points
 - Critique of website example:  3 points
-- Discussion for Computer Literacy and Proficiency:  3 points
-- Digital Literacy Whole Group Voice Thread discussion: 3 points
+- Base group Discussion on Digital Literacy:  3 points
+- Base group critique of survey design: 3 points
 - Discussion for Virtual Collaboration:  3 points
 - Discussion for Social Networking: 3 points
 - Whole-class Independent Professional Development Forum: 3 points
@@ -107,7 +107,7 @@ The checkpoint activities are designed to keep you on task for some of our large
 
 You will be asked to write personal reflections on the various topics we will cover in this course. The reflections will range from approximately 2–4 paragraphs each. You will be asked to think critically and respond to questions about the topics covered in class.
 
-- Reflection on Computer Literacy and Proficiency:  10 points
+- Reflection on Digital Literacy:  10 points
 - Reflection on Virtual Collaboration:  10 points
 - Reflection on Web Authoring:  10 points
 
@@ -115,9 +115,9 @@ You will be asked to write personal reflections on the various topics we will co
 
 There will be four case based projects during this course. In each case you will be putting theory into practice by creating important business-related elements. Each project will describe what you are expected to accomplish. The document portfolio, website, and screencast projects will be completed individually and the webinar will be a group project.
 
+- Website: 20 points
 - Document Portfolio: 20 points
 - Webinar (Group Project): 20 points
-- Website: 20 points
 - Screencast Project: 20 points
 
 **TOTAL Points Possible:  150**
@@ -141,8 +141,8 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 | Mon, 9/19  | 3. Website Initial Submission        | Sat, 9/24; Mon, 9/26  | Website project checkpoint: **initial post (by Sat, 9/24)** & peer feedback(by Mon, 9/26)            |
 | Mon, 9/26  | 4. Website Final Submission           | Mon, 10/03  | Website project due; Personal reflection on Authoring for the Web   |
 | Mon, 10/03 | 5. Digital Literacies                 | Mon, 10/10  | Discussion on digital literacy                                     |
-| Mon, 10/10 | 6. Document Portfolio                 | Mon, 10/17  | Document portfolio due                                              |
-| Mon, 10/17 | 7. Digital Literacies Reflection      | Mon, 10/24  | Personal reflection on digital literacy                            |
+| Mon, 10/10 | 6. Document Portfolio Part 1                 | Mon, 10/17  | Document portfolio part 1                                              |
+| Mon, 10/17 | 7. Document Portfolio Part 2 + Digital Literacies Reflection      | Mon, 10/24  | Document Portfolio final submission; Personal reflection on digital literacy                            |
 | Mon, 10/24 | 8. Virtual Collaboration Concepts    | Mon, 10/31   | Discussion on virtual collaboration; Planning webinar              |
 | Mon, 10/31 | 9. Webinar Preparation              | Mon, 11/7  | Virtual collaboration checkpoint                                    |
 | Mon, 11/7  | 10. Webinar Revision and Social Media  | Mon, 11/14 | Discussion on professional social networking                        |
@@ -324,23 +324,23 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   <tr>
     <td><b>Objectives</b></td>
     <td>- Be able to learn new programs and applications using: 1) Support resources within the program or app; 2) Third-party online video tutorials like Lynda.com<br>
-    - Be comfortable creating "documents" using: Google Forms, Excel, Infographic, presentation software, or other tools<br>
-    - Be able to read, clean, transform, and communicate data</td>
+    - Become comfortable with Git/Github, and understand philosophy behind it<br>
+    - Be comfortable creating a survey using Google Forms</td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td><b>Readings &amp; Media</b></td>
     <td>- Lynda.com Online Training at UMN, it.umn.edu <br>
-    - Google Forms, Excel, Infographic, and other software documentations<br></td>
+    - Google Forms and Git/GitHub documentations<br></td>
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>None</td>
+    <td>Survey critique</td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>Document Portfolio (20 points) </td>
+    <td>Document Portfolio part 1</td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
@@ -349,32 +349,29 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 </table>
 
 
-### Module 7: Digital Literacy Reflection
+### Module 7: Document Portfolio Final Submission + Digital Literacy Reflection
 
 <table>
   <tr>
     <td><b>Objectives</b></td>
     <td>
-    - Reflect on computer proficiency and literacy in light of your experience with the document portfolio assignment, and the various readings<br>
-    - Consider the role of computer proficiency and literacy in the workplace<br>
-    - To prepare for the next project, schedule a time for your Webinar project meeting using Doodle and the discussion forum</td>
+    - Reflect on digital literacy in light of your experience with the document portfolio assignment, and the various readings<br>
+    - Consider the role of digital literacy in the workplace<br>
+    - Be able to read, clean, transform, and communicate data</td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td><b>Readings &amp; Media</b></td>
-    <td>- [Digital skills from the employers' perspective](http://dlfl.bcs.org/content/conWebDoc/52325), 2014<br>
-    - [Protect your online identity](http://guides.libraries.uc.edu/digliteracy/protect), 2015.<br>
-    - [Who Are You Online? Considering Issues of Web Identity](http://learning.blogs.nytimes.com/2013/02/05/guest-post-who-are-you-online-considering-issues-of-web-identity/?_r=0), 2013.</td>
+    <td>- Wickham, 2014, Tidy data</td>
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>- Digital Literacies Whole Group discussion, through [Web annotations](https://hypothes.is/#) (3 points)<br>
-    - Determine Webinar Project online meeting date/time</td>
+    <td>None</td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>Discussion for Digital Literacies (3 points) </td>
+    <td>Document Portfolio final submission</td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
