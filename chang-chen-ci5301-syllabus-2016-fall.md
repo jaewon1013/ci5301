@@ -143,12 +143,12 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 | Mon, 10/03 | 5. Digital Literacies                 | Mon, 10/10  | Discussion on digital literacy                                     |
 | Mon, 10/10 | 6. Document Portfolio Part 1                 | Mon, 10/17  | Document portfolio part 1                                              |
 | Mon, 10/17 | 7. Document Portfolio Part 2 + Digital Literacies Reflection      | Mon, 10/24  | Document Portfolio final submission; Personal reflection on digital literacy                            |
-| Mon, 10/24 | 8. Virtual Collaboration Concepts    | Mon, 10/31   | Discussion on virtual collaboration; Planning webinar              |
+| Mon, 10/24 | 8. Virtual Collaboration Concepts + Screencasting     | Mon, 10/31   | Record individual Screencasting, Discussion on virtual collaboration; Planning webinar              |
 | Mon, 10/31 | 9. Webinar Preparation              | Mon, 11/7  | Virtual collaboration checkpoint                                    |
-| Mon, 11/7  | 10. Webinar Revision and Social Media  | Mon, 11/14 | Discussion on professional social networking                        |
-| Mon, 11/14 | 11. Webinar Final Submission          | Mon, 11/21  | Final webinar recording due; Personal reflection on virtual collaboration |
-| Mon, 11/21 | 12. Screencasting                     | Mon, 11/28 | Screencast checkpoint                                               |
-| Mon, 11/28 | 13. Revised Screencast                | Mon, 12/5  | Screencast peer-feedback; Screencast final submission               |
+| Mon, 11/7  | 10. Webinar Recording   | Mon, 11/14 | Working on Webinar group project, Final webinar recording due on Nov. 14th      |
+| Mon, 11/14 | 11. Webinar Reflection          | Mon, 11/21  | Feedback on another group's Webinar; Personal reflection on virtual collaboration |
+| Mon, 11/21 | 12. Social Media exploration         | Mon, 11/28 |  Professional learning and Business strategies                                             |
+| Mon, 11/28 | 13. Social Media discussion          | Mon, 12/5  |  Critical use on Social Media              |
 | Mon, 12/5  | 14. Final Reflections                 | Mon, 12/12  | Whole-class discussion; Course evaluation                           |
 
 
@@ -380,7 +380,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 </table>
 
 
-### Module 8: Virtual Collaboration Concepts
+### Module 8: Virtual Collaboration Concepts + Screencast Recording
 
 <table>
   <tr>
@@ -393,11 +393,10 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Readings &amp; Media</b></td>
-    <td>- Johnson, D. W., & Johnson, R. T. (1996). Cooperation and the use of technology. In D. H. Jonassen (Ed.), Handbook of research for educational communications and technology (pp. 1017-1044). New York: Simon and Schuster Macmillan.<br>
-    - Ku, (2013). Collaboration factors, teamwork satisfaction, and student attitudes toward online collaborative learning.<br>
-    - Sykes, J. (2012) Locating the value and opportunities for online collaborative creativity within advertising.<br>
-    - Thompson, L. (2010). DEGREE OF ONLINE COLLABORATION AND TEAM PERFORMANCE A Case Study.<br>
-    - Iosub, D. (2014) Emotions under Discussion: Gender, Status and Communication in Online Collaboration.</td>
+    <td>- 8 tips for virtual collaboration, from TED’s tech team (Hoffman, 2015) <br>
+    - 5 Rules for Virtual Collaboration Among Project Teams (Makar, 2014) <br>
+    - How Successful Virtual Teams Collaborate (Ferrazzi, 2012)<br>
+    - 10 Steps for Planning a Successful Webinar (Gillbert-Knight, 2016).</td>
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
@@ -406,7 +405,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>None</td>
+    <td>Screencast recording (20 points) by Oct 31st.</td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
@@ -450,7 +449,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 </table>
 
 
-### Module 10: Webinar Revision and Social Media
+### Module 10: Webinar Recording
 
 <table>
   <tr>
@@ -463,12 +462,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   <tr>
   </tr>
   <tr>
-    <td><b>Readings &amp; Media</b></td>
-    <td>- Dutta, S & Fraser, M. (2009). When job seekers invade Facebook <br>
-    - Brudno, Susan (2012). Write Posts, Will Terminate<br>
-    - Pike, George H. (2012).  And Your Facebook Password Is<br>
-    - Kiplinger, Knight (2013). Do you think it's ethical for employers to do extensive <br>
-    - Armstrong, Karen (2012). Managing your Online Reputation: Issues of Ethics, Trust and Privacy in aWired, “No Place to Hide”World</td>
+    <td><b>Readings </b></td>
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
@@ -515,29 +509,31 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 </table>
 
 
-### Module 12: Screencasting
+### Module 12: Social Media 
 
 <table>
   <tr>
     <td><b>Objectives</b></td>
     <td>
-    - Be able to analyze a screencast<br>
-    - Be able to create your own screencast</td>
+    - Be able to identify Social Media's pros and cons<br>
+    - Be able to create perfessional network</td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td><b>Readings &amp; Media</b></td>
-    <td>- Examining the Anatomy of a Screencast- Uncovering Common Elements and Instructional Strategies<br>
-    - Lynda.com Online training through UMN OIT. http://it.umn.edu/lyndacom- online-courses-0</td>
-  </tr>
+    <td>- Dutta, S & Fraser, M. (2009). When job seekers invade Facebook <br>
+    - Brudno, Susan (2012). Write Posts, Will Terminate<br>
+    - Pike, George H. (2012).  And Your Facebook Password Is<br>
+    - Kiplinger, Knight (2013). Do you think it's ethical for employers to do extensive <br>
+    - Armstrong, Karen (2012). Managing your Online Reputation: Issues of Ethics, Trust and Privacy in aWired, “No Place to Hide”World</td>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>None</td>
+    <td>Socia Media Discussion (TBD) </td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>Screencast Checkpoint Forum (5 points) (you will give feedback to your group-mates in the next module)</td>
+    <td>(TBD)</td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
@@ -546,32 +542,32 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 </table>
 
 
-### Module 13: Revised Screencast
+### Module 13: Social Media discussion
 
 <table>
   <tr>
     <td><b>Objectives</b></td>
     <td>
-    - Give feedback to classmates about improving their screencasts<br>
-    - Record and submit the final version of your screencast incorporating the suggestions from your groupmates</td>
+    - Be able to identify Social Media's pros and cons<br>
+    - Be able to create perfessional network</td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td><b>Readings &amp; Media</b></td>
-    <td>None</td>
+    <td>(TBD)</td>
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>Give Feedback to group mates on screencast checkpoint forum</td>
+    <td>(TBD)</td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>Screencast Production assignment Recording (20 points) </td>
+    <td>(TBD) </td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
-    <td>None</td>
+    <td>(TBD)</td>
   </tr>
 </table>
 
