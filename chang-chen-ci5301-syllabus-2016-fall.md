@@ -455,9 +455,8 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   <tr>
     <td><b>Objectives</b></td>
     <td>
-    - Continue revising and polishing your webinar (Final Webinar Recording is due next week)<br>
-    - Consider issues around social media in education and the workplace<br>
-    - Participate in a Twitter-style discussion about these issues</td>
+    - Record Webinar with Base Group<br>
+    <br></td>
   </tr>
   <tr>
   </tr>
@@ -466,11 +465,11 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>Whole group Twitter-Style discussion (3 points): Professional Social Networking: Ethical Actions</td>
+    <td>none</td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>None</td>
+    <td>Webinar project due on Nov.14th</td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
@@ -479,13 +478,13 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 </table>
 
 
-### Module 11: Webinar Final Submission
+### Module 11: Webinar Reflection
 
 <table>
   <tr>
     <td><b>Objectives</b></td>
     <td>
-    - Record a Webinar with your base group<br>
+    - Give feedback to another group's Webinar<br>
     - Reflect on your experiences with virtual collaboration</td>
   </tr>
   <tr>
@@ -500,7 +499,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>Final Webinar Recording (20 points), one group member submit recording to assignment submission area</td>
+    <td>give feedback to another group's Webinar in Whole-class discussion</td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
@@ -516,7 +515,9 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
     <td><b>Objectives</b></td>
     <td>
     - Be able to identify Social Media's pros and cons<br>
-    - Be able to create perfessional network</td>
+    - Be able to create perfessional network<br>
+    - Consider issues around social media in education and the workplace<br>
+    </td>
   </tr>
   <tr>
   </tr>
@@ -549,7 +550,8 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
     <td><b>Objectives</b></td>
     <td>
     - Be able to identify Social Media's pros and cons<br>
-    - Be able to create perfessional network</td>
+    - Be able to create perfessional network<br>
+    - Consider issues around social media in education and the workplace</td>
   </tr>
   <tr>
   </tr>
