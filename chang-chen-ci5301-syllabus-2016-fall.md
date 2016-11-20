@@ -2,6 +2,8 @@
 
 **Fall 2016 * Sections 003 & 006 (online)**
 
+**DRAFT -- All content is subject to change**
+
 ## Instructor Information
 
 Instructors: **Yu-Hui Chang** & **Bodong Chen**  
