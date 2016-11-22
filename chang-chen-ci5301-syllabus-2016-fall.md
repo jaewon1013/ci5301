@@ -94,7 +94,7 @@ Each Discussion Forum grade is worth 3 points: 1 point for your own post in answ
 - Base group Discussion on Digital Literacy:  3 points
 - Base group critique of survey design: 3 points
 - Discussion for Virtual Collaboration:  3 points
-- Discussion for Social Networking: 3 points
+- Discussion for Social Media: 5 points
 - Whole-class Independent Professional Development Forum: 3 points
 
 **Checkpoint Activities**
@@ -103,7 +103,7 @@ The checkpoint activities are designed to keep you on task for some of our large
 
 - Checkpoint Activity for Virtual Collaboration:  5 points
 - Checkpoint Activity for Web Authoring:  5 points
-- Screencast Analysis: 5 points
+- Checkpoint Activity for Social Media Strategy Planning (peer feedback):  3 points
 
 **Personal Reflections**
 
@@ -120,7 +120,7 @@ There will be four case based projects during this course. In each case you will
 - Website: 20 points
 - Document Portfolio: 20 points
 - Webinar (Group Project): 20 points
-- Screencast Project: 20 points
+- Social Media Project: 20 points
 
 **TOTAL Points Possible:  150**
 
@@ -149,8 +149,8 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 | Mon, 10/31 | 9. Webinar Preparation              | Mon, 11/7  | Virtual collaboration checkpoint                                    |
 | Mon, 11/7  | 10. Webinar Recording   | Mon, 11/14 | Working on Webinar group project, Final webinar recording due on Nov. 14th      |
 | Mon, 11/14 | 11. Webinar Reflection          | Mon, 11/21  | Feedback on another group's Webinar; Personal reflection on virtual collaboration |
-| Mon, 11/21 | 12. Social Media exploration         | Mon, 11/28 |  Professional learning and Business strategies                                             |
-| Mon, 11/28 | 13. Social Media discussion          | Mon, 12/5  |  Critical use on Social Media              |
+| Mon, 11/21 | 12. Social Media Exploration         | Mon, 11/28 |  Critical use on Social Media                                              |
+| Mon, 11/28 | 13. Social Media Planning          | Mon, 12/5  |  Professional learning and Business strategies              |
 | Mon, 12/5  | 14. Final Reflections                 | Mon, 12/12  | Whole-class discussion; Course evaluation                           |
 
 
@@ -510,14 +510,13 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 </table>
 
 
-### Module 12: Social Media 
+### Module 12: Social Media Exploration
 
 <table>
   <tr>
     <td><b>Objectives</b></td>
     <td>
     - Be able to identify Social Media's pros and cons<br>
-    - Be able to create perfessional network<br>
     - Consider issues around social media in education and the workplace<br>
     </td>
   </tr>
@@ -532,11 +531,11 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
     - Armstrong, Karen (2012). Managing your Online Reputation: Issues of Ethics, Trust and Privacy in aWired, “No Place to Hide”World</td>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>Socia Media Discussion (TBD) </td>
+    <td>None</td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>(TBD)</td>
+    <td>Twitter participation</td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
@@ -545,7 +544,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
 </table>
 
 
-### Module 13: Social Media discussion
+### Module 13: Social Media Planning
 
 <table>
   <tr>
@@ -553,25 +552,25 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
     <td>
     - Be able to identify Social Media's pros and cons<br>
     - Be able to create perfessional network<br>
-    - Consider issues around social media in education and the workplace</td>
+    - Be able to plan social media practices strategically in business and education</td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td><b>Readings &amp; Media</b></td>
-    <td>(TBD)</td>
+    <td>See Canvas</td>
   </tr>
   <tr>
     <td><b>Base Group Discussion</b></td>
-    <td>(TBD)</td>
+    <td>Review</td>
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>(TBD) </td>
+    <td>Strategy plan draft; Strategy plan peer review (3 points)</td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
-    <td>(TBD)</td>
+    <td>None</td>
   </tr>
 </table>
 
@@ -597,7 +596,7 @@ Class Schedule is subject to change.  Please use the Canvas site for any changes
   </tr>
   <tr>
     <td><b>Assignment Due</b></td>
-    <td>Please complete the online Course Evaluation (link emailed to you)</td>
+    <td>Social media strategy planning final submission; Online Course Evaluation (link emailed to you)</td>
   </tr>
   <tr>
     <td><b>Personal Reflection</b></td>
